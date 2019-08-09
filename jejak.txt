@@ -1,0 +1,7 @@
+1. // gunakan let hindari var
+// Cara kerja let hampir sama dengan var, bedanya di scope. 
+// var adalah function scope, sedangkan let adalah block scope. ( lihat tabel diatas )
+// gunakan const untuk variabel yg nilainya statis atau tidak berubah
+https://medium.com/coderupa/es6-var-let-const-apa-bedanya-1cd4daaee9f0
+2.  Salah satu perintah dasar sederhana untuk menerima data inputan yang berasal dari keyboard adalah prompt.
+3. arrow function mirip dengan penggunaan function biasa
